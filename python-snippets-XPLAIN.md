@@ -1,4 +1,4 @@
-# python snippets Xplain/
+# python snippets Xplain
 
 
 my requirements for python snippets:
@@ -12,4 +12,4 @@ as well, if wanted, add a requirements.txt file for others convenience.
 with minimal, but useful notes inside the code.
 
 3. in the SNIPPET-Xplain.md file, try your best to Xplain the code! (see what I did there hehe)
-I(as me, T3) will sometimes be wrong, or just make it confusing. if you want I will 100% accept guidance, as I still don't know a lot haha
+I will sometimes be wrong, or just make it confusing. if you want I will 100% accept guidance, as I still don't know a lot haha
